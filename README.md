@@ -1,2 +1,1 @@
-# NeoG-Assignment
-NeoG Assignment 
+Assignment 
